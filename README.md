@@ -24,11 +24,17 @@ C++ • Java • Python • JavaScript
 Firebase • Android Studio • Node.js • React (learning)  
 
 **Database:**  
-MySQL • Firebase Firestore / Realtime DB  
+MySQL • PostgreSQL • NeonDB • Firebase Firestore / Realtime DB  
 
 ---
 
 ## 📌 Featured Projects
+
+### 💻 **SUST CPGeeks**  
+A dedicated platform for the SUST competitive programming community to manage everything:  
+- Centralized problem lists and official announcements  
+- Scalable database architecture using PostgreSQL and NeonDB  
+- Live Site: [sustcpgeeks.me](https://sustcpgeeks.me)  
 
 ### 📱 **VitaCare**  
 A full Android-based healthcare application with:  
@@ -59,7 +65,8 @@ A university calendar system for **students, teachers, and admins**:
 ## 🤝 Connect With Me
 
 - 💼 GitHub: <a href="https://github.com/Faiyaz-2021331021">Faiyaz-2021331021</a>  
-- 📫 Email: *faiyazismail111@gmail.com*
+- 📫 Email: *faiyazismail111@gmail.com*  
+- 🌐 CP Community: [sustcpgeeks.me](https://sustcpgeeks.me)
 
 ---
 
